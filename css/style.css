@@ -1,0 +1,13 @@
+#nav{
+    margin-top: -5%;
+    position: absolute;
+    z-index: 3;
+}
+
+.sftp-header{
+    width: 100%;
+    object-fit: cover;
+    margin: -5% 0% 0% 0%;
+    height: 100%;
+    
+}
